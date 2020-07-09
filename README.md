@@ -36,9 +36,9 @@ By the time that the workshop is over (time permitting), all of your tests will 
 
 ## System Requirements
 
-* [git][git]
-* [Node][node] (at least version 8.9.4)
-* [npm][npm] (at least version 5.6.0)
+- [git][git]
+- [Node][node] (at least version 8.9.4)
+- [npm][npm] (at least version 5.6.0)
 
 ## Setup
 
@@ -51,7 +51,6 @@ cd es6-workshop
 yarn run setup
 git commit -am "setup"
 ```
-
 
 If this finishes without issues, great 👏! However, if you have problems, please file an issue on this repo [here](https://github.com/kentcdodds/es6-workshop/issues/new?title=Issues%20Setting%20Up&body=Here%27s%20my%20node/yarn%20version%20and%20the%20output%20when%20I%20run%20the%20commands:).
 
@@ -104,11 +103,11 @@ If you want to edit/update anything in the exercises, please make all changes in
 
 ### Events
 
-* [FluentConf 2015 - Axel Rauschmayer & Aaron Frost](http://fluentconf.com/javascript-html-2015/public/schedule/detail/38811)
-* [SLC JS Learners Meetup - Kent C. Dodds](http://www.meetup.com/SLC-JS-Learners/events/220770922/)
-* [MidwestJS 2015 - Kent C. Dodds](https://youtu.be/aeY6ctvsurs)
-* [The Strange Loop 2016 - Kent C. Dodds](http://www.thestrangeloop.com/2016/es6-and-beyond.html)
-* [Connect Tech - Kent C. Dodds](http://connect.tech/) - [video](https://youtu.be/nCP6jsN9XPI)
+- [FluentConf 2015 - Axel Rauschmayer & Aaron Frost](http://fluentconf.com/javascript-html-2015/public/schedule/detail/38811)
+- [SLC JS Learners Meetup - Kent C. Dodds](http://www.meetup.com/SLC-JS-Learners/events/220770922/)
+- [MidwestJS 2015 - Kent C. Dodds](https://youtu.be/aeY6ctvsurs)
+- [The Strange Loop 2016 - Kent C. Dodds](http://www.thestrangeloop.com/2016/es6-and-beyond.html)
+- [Connect Tech - Kent C. Dodds](http://connect.tech/) - [video](https://youtu.be/nCP6jsN9XPI)
 
 ## Contributors
 
@@ -120,6 +119,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [<img src="https://avatars.githubusercontent.com/u/290242?v=3" width="100px;"/><br /><sub><b>Ryan Braganza</b></sub>](www.ryanbraganza.com)<br />[💻](https://github.com/kentcdodds/es6-workshop/commits?author=ryanbraganza "Code") | [<img src="https://avatars.githubusercontent.com/u/2297806?v=3" width="100px;"/><br /><sub><b>Emrah Mehmedov</b></sub>](https://github.com/GizmoMKD)<br />[💻](https://github.com/kentcdodds/es6-workshop/commits?author=GizmoMKD "Code") [⚠️](https://github.com/kentcdodds/es6-workshop/commits?author=GizmoMKD "Tests") | [<img src="https://avatars.githubusercontent.com/u/5607371?v=3" width="100px;"/><br /><sub><b>Arijit Layek</b></sub>](https://github.com/alayek)<br />[💻](https://github.com/kentcdodds/es6-workshop/commits?author=alayek "Code") | [<img src="https://avatars.githubusercontent.com/u/3013322?v=3" width="100px;"/><br /><sub><b>Dhruv Mishra</b></sub>](https://github.com/dhruvmishra)<br />[💻](https://github.com/kentcdodds/es6-workshop/commits?author=dhruvmishra "Code") | [<img src="https://avatars.githubusercontent.com/u/15032926?v=3" width="100px;"/><br /><sub><b>Bobby White</b></sub>](https://github.com/bobbyw1994)<br />[⚠️](https://github.com/kentcdodds/es6-workshop/commits?author=bobbyw1994 "Tests") | [<img src="https://avatars.githubusercontent.com/u/5714478?v=3" width="100px;"/><br /><sub><b>Ben Ilegbodu</b></sub>](http://www.benmvp.com)<br />[📖](https://github.com/kentcdodds/es6-workshop/commits?author=benmvp "Documentation") [⚠️](https://github.com/kentcdodds/es6-workshop/commits?author=benmvp "Tests") | [<img src="https://avatars0.githubusercontent.com/u/5298300?v=3" width="100px;"/><br /><sub><b>Thomas Greenhalgh</b></sub>](https://github.com/tgreenhalgh)<br />[💻](https://github.com/kentcdodds/es6-workshop/commits?author=tgreenhalgh "Code") |
 | [<img src="https://avatars2.githubusercontent.com/u/7579804?v=3" width="100px;"/><br /><sub><b>Aaron Ang</b></sub>](https://github.com/aaronang)<br />[💻](https://github.com/kentcdodds/es6-workshop/commits?author=aaronang "Code") [📖](https://github.com/kentcdodds/es6-workshop/commits?author=aaronang "Documentation") | [<img src="https://avatars2.githubusercontent.com/u/12578347?v=3" width="100px;"/><br /><sub><b>Daniela Yassuda</b></sub>](https://github.com/danielasy)<br />[💻](https://github.com/kentcdodds/es6-workshop/commits?author=danielasy "Code") | [<img src="https://avatars3.githubusercontent.com/u/18150457?v=4" width="100px;"/><br /><sub><b>Kyle West</b></sub>](https://github.com/kyle-west)<br />[💻](https://github.com/kentcdodds/es6-workshop/commits?author=kyle-west "Code") [⚠️](https://github.com/kentcdodds/es6-workshop/commits?author=kyle-west "Tests") |
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
